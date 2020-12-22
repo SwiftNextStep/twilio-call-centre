@@ -17,7 +17,7 @@
   },
   "nodemonConfig": {
     "env": {
-      "MOBILE": "+64226226516"
+      "MOBILE": ""
     }
   }
 }
